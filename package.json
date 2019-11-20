@@ -1,0 +1,19 @@
+{
+  "name": "haesung-laundry-page",
+  "version": "1.0.0",
+  "description": "homepage for introducing laundry system made by haesung eng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnflwlq3231/Haesung-Laundry-page.git"
+  },
+  "author": "kim hee youn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnflwlq3231/Haesung-Laundry-page/issues"
+  },
+  "homepage": "https://github.com/dnflwlq3231/Haesung-Laundry-page#readme"
+}
